@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: -->
 - 🐛 Hello! I'm Aimae, a science communicator and nature enthusiast at the beginning of my web developer journey.
-- 🔭 I began my coding journey in 2012, using MATLAB, Mathematica and Javascript to solve mathematical problems during my Astrophysics degree.
+- 🔭 I began my coding journey in 2011, using MATLAB, Mathematica and Javascript to solve mathematical problems during my Astrophysics degree.
 - 🪐 In 2014, I completed my Masters project using IDL (a language similar to Fortran and C), to analyse data from past European Space Agency missions!
 - 🎢 From 2015-2021 life took me on a wild ride that involved:
   - running my own tutoring business
