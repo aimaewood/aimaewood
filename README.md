@@ -18,7 +18,7 @@ Here are some ideas to get you started: -->
 - 🌱 I’m currently training to be a web developer and, as of November '21, am halfway through a three-month bootcamp run through the University of Bath.
 - 🤔 I’m looking to chat to people in web development, data science, and anyone who applies tech solutions in cultural or medical sectors.
 - 🍄 Away from the keyboard, you'll find me hiking in nature, training aerial hoop, or getting lost in some kind of craft.
-- 💬 Ask me about wild camping, constellations, or aerial circus :)
+- 💬 Ask me about wild camping, constellations, or self-taught tattooing :)
 - 🌈 Pronouns: she/her
 - 🌍 Based in: Bristol, UK
 - 📜 How to reach me: aimaewood@gmail.com; let's chat!
