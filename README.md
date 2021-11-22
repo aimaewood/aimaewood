@@ -13,7 +13,7 @@ Here are some ideas to get you started: -->
   - operating the UK's first 3D planetarium
   - lecturing on citizen science at UCL
   - delivering live science demo and astronomy shows to thousands of people
-  - working on a £multimillion project to reimagine 80 science and art exhibits for We The Curious Science Centre in Bristol.
+  - working on a £multimillion project to reimagine seventy science and art exhibits for We The Curious Science Centre in Bristol.
 - ✨ Whilst leading UX-testing workshops for awesome digital science exhibits, I realised I wanted to build amazing tech as well. I'd been seeking a new challenge where I could flex and develop both my logical problem solving and creative skills. Web development seemed like a great place to start!
 - 🌱 I’m currently training to be a web developer and, as of November '21, am halfway through a three-month bootcamp run through the University of Bath.
 - 🤔 I’m looking to chat to people in web development, data science, and anyone who applies tech solutions in cultural, environmental or medical sectors.
