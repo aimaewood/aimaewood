@@ -14,9 +14,9 @@ Here are some ideas to get you started: -->
   - lecturing on citizen science at UCL
   - delivering live science demo and astronomy shows to thousands of people
   - working on a £multimillion project to reimagine seventy science and art exhibits for We The Curious Science Centre in Bristol.
-- ✨ Whilst leading UX-testing workshops for awesome digital science exhibits, I realised I wanted to build amazing tech as well. I'd been seeking a new challenge where I could flex and develop both my logical problem solving and creative skills. Web development seemed like a great place to start!
-- 🌱 I’m currently training to be a web developer and, as of November '21, am halfway through a three-month bootcamp run through the University of Bath.
-- 🤔 I’m looking to chat to people in web development, data science, and anyone who applies tech solutions in cultural, environmental or medical sectors.
+- ✨ Whilst leading UX-testing workshops for awesome digital science exhibits, I realised I wanted to build amazing tech as well. I'd been seeking a new challenge where I could flex and develop both my logical problem solving and creative skills. Web development seemed like the obvious choice!
+- 🌱 I’m now completing a three-month bootcamp run through the University of Bath, and will be looking for my first developer role from late January 2022. I'm enjoying learning all the tools of modern front end development, from HTML, CSS and Vanilla JS, to responsive design and CSS frameworks like Tailwind, to working with APIs and building apps using the popular React.js library.
+- 🤔 I’m looking to chat to people in web development, data science, and anyone who applies tech solutions in cultural, environmental, or STEM sectors.
 - 🍄 Away from the keyboard, you'll likely find me hiking in nature, training aerial hoop, or getting lost in some kind of craft.
 - 💬 Ask me about wild camping, constellations, or self-taught tattooing :)
 - 🌈 Pronouns: she/her
